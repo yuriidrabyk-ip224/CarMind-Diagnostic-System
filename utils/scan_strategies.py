@@ -1,3 +1,4 @@
+# CarMind Diagnostic Engine v2.0.
 class QuickScanStrategy:
     def execute(self):
         return [("P0300", "Misfire Detected", "High")]
